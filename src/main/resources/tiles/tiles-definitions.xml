@@ -31,5 +31,11 @@
     	<put-attribute name="title" value="Home" type="string" />
         <put-attribute name="body" value="/main/what-is-epf.jsp" />
     </definition>
+    
+	<definition name="blog" extends="mainTemplate">
+    	<put-attribute name="title" value="Home" type="string" />
+        <put-attribute name="body" value="/main/blog.jsp" />
+    </definition>
+    
 
 </tiles-definitions>

@@ -58,7 +58,7 @@
 					</ul>
 				</div>
 			</div>
-			<div class="row">
+			<div class="row mt-4">
 				<div
 					class="col-lg-6 position-relative align-self-start order-lg-last order-first">
 					<img src="assets/img/about.jpg" class="img-fluid" alt=""> <a
